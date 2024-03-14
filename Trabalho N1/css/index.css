@@ -1,0 +1,22 @@
+.cabecalho {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+.container {
+    background-color: blue;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: white;
+}
+.footer {
+    background-color: red;
+}
+b {
+    color: black;
+}

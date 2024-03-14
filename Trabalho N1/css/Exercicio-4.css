@@ -1,0 +1,43 @@
+.flex-container {
+    display: flex;
+}
+.eixoy {
+    flex-direction: column;
+}
+.posicao {
+    justify-content: flex-start;
+}
+.posicaoReverse {
+    justify-content: center;
+}
+.flex-box {
+    display: flex;
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+.luva {
+    display: flex;
+    align-items: stretch;
+}
+.comida {
+    display: flex;
+    align-items: flex-start;
+}
+.objeto {
+    display: grid;
+    align-items: flex-end;
+}
+.fruta {
+    display: flex;
+    align-items: center;
+}
+.corpo {
+    align-items: baseline;
+}
